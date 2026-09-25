@@ -17,12 +17,6 @@
             "port": 22,
             "user": "mark",
             "password": "mark1971"
-        },
-        {
-            "ip_address": "10.32.34.91",
-            "port": 22,
-            "user": "mark",
-            "password": "mark1971"
         }
     ]
 }
